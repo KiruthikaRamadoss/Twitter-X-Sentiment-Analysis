@@ -71,7 +71,7 @@ Power BI dashboard visualizes:
 - Sentiment distribution by age group
 - Sentiment class proportions
 
-[Dashboard](Dashboard%20Twitter%20project.png)
+[Dashboard](https://github.com/KiruthikaRamadoss/Twitter-X-Sentiment-Analysis/blob/main/Power%20BI%20Dashboard.pdf)
 
 ---
 
