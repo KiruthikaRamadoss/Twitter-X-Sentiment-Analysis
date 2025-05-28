@@ -96,6 +96,9 @@ Power BI dashboard visualizes:
 
 📄 [Term Paper](https://drive.google.com/file/d/1RSIwaDRjuj2LDRR6rGxS57Lkq8QUDsrC/view?usp=drive_link)
 
+*Note: Documents are shared as view-only to preserve originality and prevent unauthorized edits.*
+
+
 ---
 
 ## Summary
