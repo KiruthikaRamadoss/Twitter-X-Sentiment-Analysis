@@ -92,9 +92,9 @@ Power BI dashboard visualizes:
 
 ## Supplementary Documents
 
-📄 [Term Paper](https://drive.google.com/file/d/1n3BgcOZsbbXaC-4CZ0RhLEnZzobyTVSi/view?usp=drive_link)  
+📊 [Presentation Slides](https://drive.google.com/file/d/1n3BgcOZsbbXaC-4CZ0RhLEnZzobyTVSi/view?usp=drive_link)  
 
-📊 [Presentation Slides](https://drive.google.com/file/d/1RSIwaDRjuj2LDRR6rGxS57Lkq8QUDsrC/view?usp=drive_link)
+📄 [Term Paper](https://drive.google.com/file/d/1RSIwaDRjuj2LDRR6rGxS57Lkq8QUDsrC/view?usp=drive_link)
 
 ---
 
