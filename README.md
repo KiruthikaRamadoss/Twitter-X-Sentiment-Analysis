@@ -1,4 +1,5 @@
 # Twitter-X-Sentiment-Analysis
+
 Sentiment analysis using TF-IDF and classification models to evaluate public sentiment on Twitter (X), supported by interactive Power BI visualizations.
 
 A case study in text mining and machine learning that explores sentiment trends from tweets across demographics and posting times, using both predictive modeling and dashboard analytics.
@@ -13,7 +14,8 @@ A case study in text mining and machine learning that explores sentiment trends 
 - [Modeling](#modeling)
 - [Dashboard](#dashboard)
 - [Results](#results)
-- [Conclusion](#Summary)
+- [Supplementary Documents](#supplementary-documents)
+- [Summary](#summary)
 - [How to Run](#how-to-run)
 - [Contact](#contact)
 
@@ -24,7 +26,6 @@ A case study in text mining and machine learning that explores sentiment trends 
 This project analyzes tweet sentiment using machine learning techniques (Logistic Regression, Naive Bayes, SVM). Tweets were vectorized using TF-IDF, and Power BI was used for data visualization. The project investigates sentiment trends across age groups and time of day and provides insights useful for marketing and social monitoring.
 
 ---
-
 
 ## Dataset
 
@@ -71,21 +72,29 @@ Power BI dashboard visualizes:
 - Sentiment distribution by age group
 - Sentiment class proportions
 
-[Dashboard](https://github.com/KiruthikaRamadoss/Twitter-X-Sentiment-Analysis/blob/main/Power%20BI%20Dashboard.pdf)
+📊 [View Dashboard](https://github.com/KiruthikaRamadoss/Twitter-X-Sentiment-Analysis/blob/main/Power%20BI%20Dashboard.pdf)
 
 ---
 
 ## Results
 
 - **Best Model:** Logistic Regression
-- **Sentiment Distribution:**  
-  - Neutral: 53.9%  
-  - Positive: 26.0%  
+- **Sentiment Distribution:**
+  - Neutral: 53.9%
+  - Positive: 26.0%
   - Negative: 20.1%
-- **Business Use Cases:**  
-  - Real-time social media monitoring  
-  - Brand sentiment analysis  
+- **Business Use Cases:**
+  - Real-time social media monitoring
+  - Brand sentiment analysis
   - Public opinion tracking
+
+---
+
+## Supplementary Documents
+
+📄 [Term Paper](https://drive.google.com/file/d/1n3BgcOZsbbXaC-4CZ0RhLEnZzobyTVSi/view?usp=drive_link)  
+
+📊 [Presentation Slides](https://drive.google.com/file/d/1RSIwaDRjuj2LDRR6rGxS57Lkq8QUDsrC/view?usp=drive_link)
 
 ---
 
@@ -103,8 +112,9 @@ Power BI dashboard visualizes:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YourUsername/Twitter-Sentiment-Analysis.git
-   cd Twitter-Sentiment-Analysis
+   git clone https://github.com/KiruthikaRamadoss/Twitter-X-Sentiment-Analysis.git
+   cd Twitter-X-Sentiment-Analysis
+
 
 2. (Optional) Create and activate a virtual environment:
 python -m venv env
