@@ -3,16 +3,17 @@ Sentiment analysis using TF-IDF and classification models to evaluate public sen
 
 A case study in text mining and machine learning that explores sentiment trends from tweets across demographics and posting times, using both predictive modeling and dashboard analytics.
 
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
-- [Team Members](#team-members)
 - [Dataset](#dataset)
 - [Data Preprocessing & EDA](#data-preprocessing--eda)
 - [Modeling](#modeling)
 - [Dashboard](#dashboard)
 - [Results](#results)
-- [Conclusion](#conclusion)
+- [Conclusion](#Summary)
 - [How to Run](#how-to-run)
 - [Contact](#contact)
 
@@ -24,14 +25,6 @@ This project analyzes tweet sentiment using machine learning techniques (Logisti
 
 ---
 
-## Team Members
-- Gowthami Sindhu Priya Chilukuri  
-- Hinduja Cheela  
-- Kiruthika Ramadoss  
-- Musaddiqa Azeez  
-- Sinan Salim  
-
----
 
 ## Dataset
 
@@ -78,7 +71,7 @@ Power BI dashboard visualizes:
 - Sentiment distribution by age group
 - Sentiment class proportions
 
-🖼️ ![Dashboard](Dashboard%20Twitter%20project.png)
+[Dashboard](Dashboard%20Twitter%20project.png)
 
 ---
 
@@ -96,12 +89,13 @@ Power BI dashboard visualizes:
 
 ---
 
-## Conclusion
+## Summary
 
-- Logistic Regression outperformed more complex models.
-- TF-IDF is effective for tweet classification.
-- Data preprocessing is critical for social media analytics.
-- Power BI enhances interpretation for non-technical users.
+- Demonstrated the use of TF-IDF and ML models to classify tweet sentiments.
+- Logistic Regression showed the best performance among tested models.
+- EDA revealed sentiment patterns by age and time of tweet, useful for marketing analytics.
+- Power BI provided effective data storytelling through interactive visualizations.
+- Reinforced the value of NLP and business intelligence in social media analysis.
 
 ---
 
@@ -125,7 +119,7 @@ jupyter notebook Twitter_Sentiment_Analysis.ipynb
 
    ## Contact
 
-   For any inquiries or collaboration opportunities:
+For inquiries, feedback, or professional connections:
 
 - [LinkedIn](https://www.linkedin.com/in/kiruthikaramadoss/)
 - [GitHub](https://github.com/KiruthikaRamadoss)  
