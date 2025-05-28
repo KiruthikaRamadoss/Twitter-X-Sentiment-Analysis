@@ -116,7 +116,7 @@ Power BI dashboard visualizes:
    cd Twitter-X-Sentiment-Analysis
 
 
-2. (Optional) Create and activate a virtual environment:
+2. Create and activate a virtual environment (Optional):
 python -m venv env
 source env/bin/activate  # On Windows use `env\Scripts\activate`
 
