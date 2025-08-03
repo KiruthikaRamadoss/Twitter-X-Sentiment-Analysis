@@ -129,6 +129,7 @@ source env/bin/activate  # On Windows use `env\Scripts\activate`
 6. Launch the notebook:
 jupyter notebook Twitter_Sentiment_Analysis.ipynb
 
+---
 
    ## Contact
 
